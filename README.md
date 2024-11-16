@@ -1,6 +1,6 @@
 # Contact Management App
 
-A simple contact management application built with React for the frontend and Node.js for the backend. This app allows users to add, edit, delete, and view contacts.
+A simple contact management application built with React for the frontend and Node.js for the backend. This app allows users to add, edit, delete, and view contacts. 
 
 ## Features
 
